@@ -1,1 +1,1 @@
-![Image of peanuts](https://solidstarts.com/wp-content/uploads/Peanut-480x320@2x.webp)
+![Image of peanuts](https://octodex.github.com/images/yaktocat.png)
